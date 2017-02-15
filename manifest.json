@@ -1,7 +1,11 @@
 {
   "manifest_version": 2,
   "name": "Reddit Slate Nights",
+  "description": "Reddit Slate Nights theme for reddit.com",
   "version": "1.0",
+  "icons": {
+    "96": "icon-96.png"
+  },
   "content_scripts": [
     {
       "matches": [
