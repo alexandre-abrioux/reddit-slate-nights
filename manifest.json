@@ -1,12 +1,13 @@
 {
   "manifest_version": 2,
   "author": "Alexandre ABRIOUX",
-  "name": "Reddit Slate Nights",
+  "name": "Reddit Slate Nights 2.1",
   "description": "Reddit Slate Nights theme for reddit.com",
-  "version": "1.0",
+  "version": "2.1",
   "applications": {
     "gecko": {
-      "id": "redditslatenight@mozilla.org"
+      "id": "redditslatenight@mozilla.org",
+      "strict_min_version": "55.0"
     }
   },
   "icons": {
@@ -18,8 +19,8 @@
         "*://reddit.com/*",
         "*://*.reddit.com/*"
       ],
-      "js": [
-        "reddit.js"
+      "css": [
+        "style.css"
       ],
       "run_at": "document_start"
     }
