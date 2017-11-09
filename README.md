@@ -2,7 +2,7 @@
 
 WebExtension enhancing the appearance of [reddit.com](https://www.reddit.com/).
 
-All credits goes to */u/the_tenderhooks* for the design.
+All credit goes to */u/the_tenderhooks* for the design.
 
 ## Installation
 
