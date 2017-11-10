@@ -6,9 +6,8 @@ All credit goes to */u/the_tenderhooks* for the design.
 
 ## Installation
 
-- Firefox: https://addons.mozilla.org/fr/firefox/addon/reddit-slate-nights/
-- Chrome: coming soon
-
+[![Firefox](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/firefox.png) Firefox Extension](https://addons.mozilla.org/fr/firefox/addon/reddit-slate-nights/)<br> 
+[![Chrome](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/chrome.png) Chrome Extension](https://chrome.google.com/webstore/detail/reddit-slate-nights/hliicmmffmmnnmdfcgbbobjhmokldoad)
 ## Original Description
 
 Original description from the theme's web page (available on [userstyles.org](https://userstyles.org/styles/70271/reddit-slate-nights-2-1-dark)):
