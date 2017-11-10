@@ -1,7 +1,6 @@
 # Reddit Slate Night 2.1
 
-WebExtension enhancing the appearance of [reddit.com](https://www.reddit.com/).
-
+WebExtension enhancing the appearance of [reddit.com](https://www.reddit.com/).<br>
 All credit goes to */u/the_tenderhooks* for the design.
 
 ## Installation
